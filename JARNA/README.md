@@ -1,5 +1,5 @@
 # JarnaDEV
-Developpement de projet Robotoïds
+Developpement de projetJarna 3D
 
 #UPDATES
 ## UPDATE 08/08/2016
