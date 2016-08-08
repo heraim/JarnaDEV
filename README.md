@@ -13,7 +13,7 @@ Ajout d'un GameDesign document
 
 Premièrement nous travaillerons sur ce github pour échanger nos fichiers de travail.
 
-# Chose obligatoire :
+# Programme obligatoire :
 -Unity 3D version 5.2.0f3 ou superieur
 
 #Liens
